@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kNz-vMp3)
+# IPM Project 23/24
+
+## How to run
+
+**Start json server:**
+``json-server db.json``
+
+**Run the website:**
+``npm install``
+``npm run serve``
+
+## Screenshots
+
+![Screenshot 1](https://imgur.com/fNFLRbR)
+![Screenshot 2](https://imgur.com/ybckKwl)
+![Screenshot 3](https://imgur.com/BKN8a60)
