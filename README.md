@@ -11,6 +11,6 @@
 
 ## Screenshots
 
-![Screenshot 1](https://imgur.com/fNFLRbR)
-![Screenshot 2](https://imgur.com/ybckKwl)
-![Screenshot 3](https://imgur.com/BKN8a60)
+![Screenshot 1](https://i.imgur.com/fNFLRbR.png)
+![Screenshot 2](https://imgur.com/ybckKwl.png)
+![Screenshot 3](https://imgur.com/BKN8a60.png)
